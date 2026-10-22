@@ -5,7 +5,7 @@ Presenter: Hezi Liu
 
 ## Reading List
 
-The five papers below were selected as the most relevant results from an arXiv catalog search on retrieval-augmented generation. All titles, authors, and arXiv IDs are recorded exactly as returned by the catalog.
+The five papers below are the most relevant results from an arXiv catalog search on retrieval-augmented generation. All titles, authors, and arXiv IDs are recorded exactly as returned by the catalog.
 
 ### 1. Active Retrieval Augmented Generation
 - **Authors:** Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig
@@ -38,3 +38,7 @@ The five papers below were selected as the most relevant results from an arXiv c
   - **Authors:** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
   - **arXiv ID:** 1706.03762
   - The seminal Transformer paper — the architecture underlying the language models that RAG augments. (ID confirmed against the arXiv catalog.)
+
+## Repository Status
+
+- GitHub Actions workflows configured: **none** (no CI workflows are set up on this repository yet).
